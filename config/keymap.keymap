@@ -33,7 +33,7 @@
 &trans  &trans            &trans             &trans         &trans        &trans                              &trans          &trans     &trans        &trans           &trans           &trans
 &trans  &kp NUMBER_1      &kp NUMBER_2       &kp NUMBER_3   &kp NUMBER_4  &kp N5                              &kp NUMBER_6    &kp N7     &kp N8        &kp N9           &kp N0           &trans
 &trans  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &mkp RCLK      &mkp LCLK     &trans     &trans          &trans   &kp LEFT_ARROW  &kp DOWN   &kp UP_ARROW  &kp RIGHT_ARROW  &kp RETURN       &trans
-&trans  &kp MINUS         &kp EQUAL          &kp BACKSLASH  &kp GRAVE     &kp APOS   &trans          &kp F10  &kp MINUS       &kp SLASH  &trans        &trans           &kp RIGHT_SHIFT  &trans
+&trans  &kp MINUS         &kp EQUAL          &kp BACKSLASH  &kp GRAVE     &kp APOS   &kp F2          &kp F10  &kp MINUS       &kp SLASH  &trans        &trans           &kp RIGHT_SHIFT  &trans
 &trans  &kp ESCAPE        &trans             &trans         &kp F10       &kp LCTRL  &kp LEFT_SHIFT  &trans   &kp DELETE      &trans     &trans        &trans           &trans           &trans
             >;
         };
